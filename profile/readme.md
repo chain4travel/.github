@@ -15,7 +15,10 @@ We have adopted a three-chain architecture with the fourth chain (for travel-rel
 ## 📚 Resources
 To learn more about Camino, check out the following resources:
 
-* [Camino website](https://camino.network/)
+* [Camino Network Website](https://camino.network/)
+* [Camino Network Foundation](https://foundation.camino.network/)
+* [Camine Network Whitepaper](https://camino.network/static/docs/Camino_Network_Whitepaper.pdf#view=fit)
+
 * [Documentation](https://docs.camino.network/)
 * [Blog](https://chain4travel.com/news)
 
