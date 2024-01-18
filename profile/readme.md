@@ -13,12 +13,11 @@ We have adopted a three-chain architecture with the fourth chain (for travel-rel
 * T-Chain: As a new Virtual Machine it will introduce travel data standards to maximize connectivity with a high degree of security in GDPR compliant way
 
 ## 📚 Resources
-To learn more about Camino, check out the following resources:
+To learn more about Camino Network, check out the following resources:
 
 * [Camino Network Website](https://camino.network/)
 * [Camino Network Foundation](https://foundation.camino.network/)
 * [Camino Network Whitepaper](https://camino.network/static/docs/Camino_Network_Whitepaper.pdf#view=fit)
-
 * [Documentation](https://docs.camino.network/)
 * [Blog](https://chain4travel.com/news)
 
